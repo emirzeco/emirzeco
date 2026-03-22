@@ -1,4 +1,5 @@
-## Hi there 👋
+
+# Hi there 👋
 
 <img src="EZ_Logo.png" alt="Logo"/>
 
