@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+[![Logo](https://raw.githubusercontent.com/emirzeco/zecovic/main/EZ_Logo.png)](https://github.com/emirzeco/zecovic)
+
+**Ph.D. student**
+
+
+
 <!--
 **emirzeco/emirzeco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
