@@ -2,7 +2,7 @@
 
 [![Logo](https://raw.githubusercontent.com/emirzeco/zecovic/main/EZ_Logo.png)](https://github.com/emirzeco/zecovic)
 
-**Ph.D. student**
+
 
 
 
