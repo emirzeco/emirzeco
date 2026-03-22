@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Logo](https://raw.githubusercontent.com/emirzeco/emirzeco/main/EZ_Logo.png)](https://github.com/emirzeco/zecovic)
+[![Logo](https://raw.githubusercontent.com/emirzeco/emirzeco/main/EZ_Logo.png)](https://github.com/emirzeco/emirzeco)
 
 
 
