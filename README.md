@@ -4,7 +4,7 @@
 <img src="EZ_Logo.png" alt="Logo"/>
 
 
-
+<sub>Banner inspired by <a href="https://github.com/czymara">Christian Czymara</a></sub>
 
 <!--
 **emirzeco/emirzeco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
